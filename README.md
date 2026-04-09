@@ -50,6 +50,8 @@ Generated report includes:
 - `scripts/parse_trending.py` - Parse HTML into structured JSON
 - `scripts/generate_report.py` - Generate Chinese markdown report
 - `.github/workflows/weekly-report.yml` - Weekly automation via GitHub Actions
+- `skills/claude-code/github-trending-analyzer/SKILL.md` - Claude Code skill definition
+- `skills/codex/github-trending-analyzer.prompt.md` - Codex reusable prompt template
 - `reports/latest.md` - Latest generated sample report
 
 ## Growth loop (recommended)
@@ -58,6 +60,17 @@ Generated report includes:
 2. Publish one short summary post and one long-form weekly post.
 3. Link back to this repo and highlight 1-2 standout projects.
 4. Track which categories get most engagement, then refine taxonomy.
+
+## Skill usage
+
+### Claude Code
+
+1. Copy `skills/claude-code/github-trending-analyzer/SKILL.md` into your local skills directory.
+2. Invoke `/github-trending-analyzer` in Claude Code.
+
+### Codex
+
+Use `skills/codex/github-trending-analyzer.prompt.md` as a reusable prompt, then run the listed commands in the repo.
 
 ## Roadmap
 
