@@ -49,6 +49,7 @@ Generated report includes:
 - `scripts/fetch_trending.sh` - Fetch trending HTML pages
 - `scripts/parse_trending.py` - Parse HTML into structured JSON
 - `scripts/generate_report.py` - Generate Chinese markdown report
+- `scripts/install_claude_skill.sh` - One-command Claude Code skill installer
 - `.github/workflows/weekly-report.yml` - Weekly automation via GitHub Actions
 - `skills/claude-code/github-trending-analyzer/SKILL.md` - Claude Code skill definition
 - `skills/codex/github-trending-analyzer.prompt.md` - Codex reusable prompt template
@@ -65,8 +66,17 @@ Generated report includes:
 
 ### Claude Code
 
-1. Copy `skills/claude-code/github-trending-analyzer/SKILL.md` into your local skills directory.
-2. Invoke `/github-trending-analyzer` in Claude Code.
+One-command install:
+
+```bash
+bash scripts/install_claude_skill.sh
+```
+
+Then invoke `/github-trending-analyzer` in Claude Code.
+
+Optional flags:
+- `--dry-run` preview actions without writing files
+- `--force` overwrite existing installed skill
 
 ### Codex
 
