@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "github-trending-analyzer",
+  "description": "Generate Chinese GitHub Trending intelligence reports with full inventory, categorization, and strategic insights.",
+  "owner": {
+    "name": "jackjin1997",
+    "url": "https://github.com/jackjin1997"
+  },
+  "plugins": [
+    {
+      "name": "github-trending-analyzer",
+      "description": "Fetch, categorize, and summarize GitHub Trending projects across daily, weekly, and monthly spans.",
+      "version": "0.1.0",
+      "author": {
+        "name": "jackjin1997",
+        "url": "https://github.com/jackjin1997"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/jackjin1997/github-trending-analyzer"
+    }
+  ]
+}

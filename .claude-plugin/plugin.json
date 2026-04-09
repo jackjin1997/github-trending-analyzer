@@ -1,0 +1,24 @@
+{
+  "name": "github-trending-analyzer",
+  "version": "0.1.0",
+  "description": "Fetch, categorize, and summarize GitHub Trending projects across daily, weekly, and monthly spans in Chinese.",
+  "author": {
+    "name": "jackjin1997",
+    "url": "https://github.com/jackjin1997"
+  },
+  "homepage": "https://github.com/jackjin1997/github-trending-analyzer",
+  "repository": "https://github.com/jackjin1997/github-trending-analyzer",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "trending",
+    "analysis",
+    "chinese",
+    "report",
+    "developer-tools"
+  ],
+  "skills": [
+    "./skills/claude-code/github-trending-analyzer"
+  ],
+  "hooks": {}
+}

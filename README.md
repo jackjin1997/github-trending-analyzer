@@ -51,6 +51,8 @@ Generated report includes:
 - `scripts/generate_report.py` - Generate Chinese markdown report
 - `scripts/install_claude_skill.sh` - One-command Claude Code skill installer
 - `.github/workflows/weekly-report.yml` - Weekly automation via GitHub Actions
+- `.claude-plugin/plugin.json` - Claude plugin manifest
+- `.claude-plugin/marketplace.json` - Claude marketplace metadata
 - `skills/claude-code/github-trending-analyzer/SKILL.md` - Claude Code skill definition
 - `skills/codex/github-trending-analyzer.prompt.md` - Codex reusable prompt template
 - `reports/latest.md` - Latest generated sample report
@@ -62,11 +64,21 @@ Generated report includes:
 3. Link back to this repo and highlight 1-2 standout projects.
 4. Track which categories get most engagement, then refine taxonomy.
 
-## Skill usage
+## Install
 
-### Claude Code
+### Claude Code (marketplace)
 
-One-command install:
+```bash
+/plugin marketplace add jackjin1997/github-trending-analyzer
+```
+
+### Claude Code (manual)
+
+```bash
+git clone https://github.com/jackjin1997/github-trending-analyzer.git ~/.claude/skills/github-trending-analyzer
+```
+
+### Claude Code (local one-command)
 
 ```bash
 bash scripts/install_claude_skill.sh
