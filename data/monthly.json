@@ -1,0 +1,97 @@
+[
+  {
+    "path": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you"
+  },
+  {
+    "path": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+  },
+  {
+    "path": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory."
+  },
+  {
+    "path": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+  },
+  {
+    "path": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+  },
+  {
+    "path": "FujiwaraChoki/MoneyPrinterV2",
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online."
+  },
+  {
+    "path": "lightpanda-io/browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation"
+  },
+  {
+    "path": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+  },
+  {
+    "path": "jarrodwatts/claude-hud",
+    "url": "https://github.com/jarrodwatts/claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+  },
+  {
+    "path": "siddharthvaddem/openscreen",
+    "url": "https://github.com/siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+  },
+  {
+    "path": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+  },
+  {
+    "path": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+  },
+  {
+    "path": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1"
+  },
+  {
+    "path": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works."
+  },
+  {
+    "path": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+  },
+  {
+    "path": "langchain-ai/open-swe",
+    "url": "https://github.com/langchain-ai/open-swe",
+    "description": "An Open-Source Asynchronous Coding Agent"
+  },
+  {
+    "path": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design."
+  },
+  {
+    "path": "volcengine/OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving."
+  },
+  {
+    "path": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs"
+  }
+]

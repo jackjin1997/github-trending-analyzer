@@ -1,0 +1,7 @@
+data/*.html
+reports/*.md
+!reports/latest.md
+!.gitkeep
+__pycache__/
+*.pyc
+.DS_Store

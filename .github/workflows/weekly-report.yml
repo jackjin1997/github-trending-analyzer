@@ -1,0 +1,45 @@
+name: Weekly Trending Report
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * 1"
+
+jobs:
+  build-report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch and parse trending
+        run: |
+          bash scripts/fetch_trending.sh daily
+          bash scripts/fetch_trending.sh weekly
+          bash scripts/fetch_trending.sh monthly
+          python3 scripts/parse_trending.py data/daily.html -o data/daily.json
+          python3 scripts/parse_trending.py data/weekly.html -o data/weekly.json
+          python3 scripts/parse_trending.py data/monthly.html -o data/monthly.json
+
+      - name: Generate report
+        run: python3 scripts/generate_report.py --data-dir data --out reports/latest.md
+
+      - name: Commit report if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/daily.json data/weekly.json data/monthly.json reports/latest.md
+          git commit -m "chore: update weekly trending report"
+          git push
