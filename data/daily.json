@@ -1,48 +1,58 @@
 [
   {
+    "path": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you"
+  },
+  {
+    "path": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+  },
+  {
     "path": "forrestchang/andrej-karpathy-skills",
     "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+  },
+  {
+    "path": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown."
+  },
+  {
+    "path": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+  },
+  {
+    "path": "coleam00/Archon",
+    "url": "https://github.com/coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+  },
+  {
+    "path": "shanraisshan/claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "description": "practice made claude perfect"
+  },
+  {
+    "path": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+  },
+  {
+    "path": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+  },
+  {
+    "path": "ahujasid/blender-mcp",
+    "url": "https://github.com/ahujasid/blender-mcp",
     "description": ""
   },
   {
-    "path": "TheCraigHewitt/seomachine",
-    "url": "https://github.com/TheCraigHewitt/seomachine",
-    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience."
-  },
-  {
-    "path": "google-ai-edge/gallery",
-    "url": "https://github.com/google-ai-edge/gallery",
-    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
-  },
-  {
-    "path": "NVIDIA/personaplex",
-    "url": "https://github.com/NVIDIA/personaplex",
-    "description": "PersonaPlex code."
-  },
-  {
-    "path": "google-ai-edge/LiteRT-LM",
-    "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "description": ""
-  },
-  {
-    "path": "elebumm/RedditVideoMakerBot",
-    "url": "https://github.com/elebumm/RedditVideoMakerBot",
-    "description": "Create Reddit Videos with just✨ one command ✨"
-  },
-  {
-    "path": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works."
-  },
-  {
-    "path": "newton-physics/newton",
-    "url": "https://github.com/newton-physics/newton",
-    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers."
-  },
-  {
-    "path": "abhigyanpatwari/GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    "path": "rustfs/rustfs",
+    "url": "https://github.com/rustfs/rustfs",
+    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
   },
   {
     "path": "virattt/ai-hedge-fund",
@@ -50,8 +60,13 @@
     "description": "An AI Hedge Fund Team"
   },
   {
-    "path": "goharbor/harbor",
-    "url": "https://github.com/goharbor/harbor",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+    "path": "snarktank/ralph",
+    "url": "https://github.com/snarktank/ralph",
+    "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete."
+  },
+  {
+    "path": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。"
   }
 ]
