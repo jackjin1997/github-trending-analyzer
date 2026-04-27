@@ -1,52 +1,67 @@
 [
   {
-    "path": "Fincept-Corporation/FinceptTerminal",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+    "path": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Agent Skills for real engineers. Straight from my .claude directory."
   },
   {
-    "path": "thunderbird/thunderbolt",
-    "url": "https://github.com/thunderbird/thunderbolt",
-    "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in."
+    "path": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw"
   },
   {
-    "path": "tractorjuice/arc-kit",
-    "url": "https://github.com/tractorjuice/arc-kit",
-    "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit"
+    "path": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers"
   },
   {
-    "path": "openai/openai-agents-python",
-    "url": "https://github.com/openai/openai-agents-python",
-    "description": "A lightweight, powerful framework for multi-agent workflows"
+    "path": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
   },
   {
-    "path": "pingdotgg/t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "description": ""
+    "path": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack."
   },
   {
-    "path": "paperless-ngx/paperless-ngx",
-    "url": "https://github.com/paperless-ngx/paperless-ngx",
-    "description": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    "path": "microsoft/typescript-go",
+    "url": "https://github.com/microsoft/typescript-go",
+    "description": "Staging repo for development of native port of TypeScript"
   },
   {
-    "path": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video."
+    "path": "trycua/cua",
+    "url": "https://github.com/trycua/cua",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows)."
   },
   {
-    "path": "EvoMap/evolver",
-    "url": "https://github.com/EvoMap/evolver",
-    "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai"
+    "path": "gastownhall/beads",
+    "url": "https://github.com/gastownhall/beads",
+    "description": "Beads - A memory upgrade for your coding agent"
   },
   {
-    "path": "BasedHardware/omi",
-    "url": "https://github.com/BasedHardware/omi",
-    "description": "AI that sees your screen, listens to your conversations and tells you what to do"
+    "path": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
   },
   {
-    "path": "Donchitos/Claude-Code-Game-Studios",
-    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+    "path": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first."
+  },
+  {
+    "path": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "path": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+  },
+  {
+    "path": "ComposioHQ/awesome-codex-skills",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API."
   }
 ]
