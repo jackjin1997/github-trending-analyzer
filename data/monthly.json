@@ -10,24 +10,29 @@
     "description": "The agent that grows with you"
   },
   {
-    "path": "luongnv89/claude-howto",
-    "url": "https://github.com/luongnv89/claude-howto",
-    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    "path": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents."
+  },
+  {
+    "path": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+  },
+  {
+    "path": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory."
+  },
+  {
+    "path": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)"
   },
   {
     "path": "shiyu-coder/Kronos",
     "url": "https://github.com/shiyu-coder/Kronos",
     "description": "Kronos: A Foundation Model for the Language of Financial Markets"
-  },
-  {
-    "path": "siddharthvaddem/openscreen",
-    "url": "https://github.com/siddharthvaddem/openscreen",
-    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
-  },
-  {
-    "path": "Fincept-Corporation/FinceptTerminal",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
   },
   {
     "path": "HKUDS/DeepTutor",
@@ -40,29 +45,9 @@
     "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
   },
   {
-    "path": "google-ai-edge/gallery",
-    "url": "https://github.com/google-ai-edge/gallery",
-    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
-  },
-  {
     "path": "microsoft/markitdown",
     "url": "https://github.com/microsoft/markitdown",
     "description": "Python tool for converting files and office documents to Markdown."
-  },
-  {
-    "path": "Alishahryar1/free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw"
-  },
-  {
-    "path": "microsoft/VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "description": "Open-Source Frontier Voice AI"
-  },
-  {
-    "path": "google-ai-edge/LiteRT-LM",
-    "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "description": ""
   },
   {
     "path": "lsdefine/GenericAgent",
@@ -70,9 +55,29 @@
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption"
   },
   {
-    "path": "hugohe3/ppt-master",
-    "url": "https://github.com/hugohe3/ppt-master",
-    "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed"
+    "path": "google-ai-edge/gallery",
+    "url": "https://github.com/google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
+  },
+  {
+    "path": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+  },
+  {
+    "path": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers"
+  },
+  {
+    "path": "ComposioHQ/awesome-codex-skills",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API."
+  },
+  {
+    "path": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
   },
   {
     "path": "rtk-ai/rtk",
@@ -80,8 +85,8 @@
     "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
   },
   {
-    "path": "google-research/timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    "path": "google-ai-edge/LiteRT-LM",
+    "url": "https://github.com/google-ai-edge/LiteRT-LM",
+    "description": ""
   }
 ]
