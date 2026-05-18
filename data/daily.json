@@ -1,62 +1,92 @@
 [
   {
-    "path": "bytedance/UI-TARS-desktop",
-    "url": "https://github.com/bytedance/UI-TARS-desktop",
-    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+    "path": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
   },
   {
-    "path": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "description": ""
+    "path": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
   },
   {
-    "path": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents."
+    "path": "calcom/cal.diy",
+    "url": "https://github.com/calcom/cal.diy",
+    "description": "Scheduling infrastructure for absolutely everyone."
   },
   {
-    "path": "CloakHQ/CloakBrowser",
-    "url": "https://github.com/CloakHQ/CloakBrowser",
-    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    "path": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
   },
   {
-    "path": "HKUDS/AI-Trader",
-    "url": "https://github.com/HKUDS/AI-Trader",
-    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\""
+    "path": "Anil-matcha/Open-Generative-AI",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed."
   },
   {
-    "path": "jundot/omlx",
-    "url": "https://github.com/jundot/omlx",
-    "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+    "path": "BigBodyCobain/Shadowbroker",
+    "url": "https://github.com/BigBodyCobain/Shadowbroker",
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now."
   },
   {
-    "path": "datawhalechina/easy-vibe",
-    "url": "https://github.com/datawhalechina/easy-vibe",
-    "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step."
+    "path": "tech-leads-club/agent-skills",
+    "url": "https://github.com/tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
   },
   {
-    "path": "playcanvas/supersplat",
-    "url": "https://github.com/playcanvas/supersplat",
-    "description": "3D Gaussian Splat Editor"
+    "path": "NirDiamant/agents-towards-production",
+    "url": "https://github.com/NirDiamant/agents-towards-production",
+    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment."
   },
   {
-    "path": "lsdefine/GenericAgent",
-    "url": "https://github.com/lsdefine/GenericAgent",
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption"
+    "path": "dograh-hq/dograh",
+    "url": "https://github.com/dograh-hq/dograh",
+    "description": "Open Source Voice Agent Platform"
   },
   {
-    "path": "decolua/9router",
-    "url": "https://github.com/decolua/9router",
-    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+    "path": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
   },
   {
-    "path": "affaan-m/everything-claude-code",
-    "url": "https://github.com/affaan-m/everything-claude-code",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    "path": "Light-Heart-Labs/DreamServer",
+    "url": "https://github.com/Light-Heart-Labs/DreamServer",
+    "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions."
   },
   {
-    "path": "datawhalechina/hello-agents",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    "path": "KeygraphHQ/shannon",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+  },
+  {
+    "path": "TryGhost/Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
+  },
+  {
+    "path": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "description": "The world's most flexible commerce platform."
+  },
+  {
+    "path": "knadh/listmonk",
+    "url": "https://github.com/knadh/listmonk",
+    "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app."
+  },
+  {
+    "path": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud."
+  },
+  {
+    "path": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local"
+  },
+  {
+    "path": "microsoft/ai-agents-for-beginners",
+    "url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents"
   }
 ]
