@@ -1,108 +1,111 @@
-# GitHub Trending 中文报告 (2026-05-18)
+# GitHub Trending 中文报告 (2026-05-25)
 
 ## 📅 Part 1: Full Trending Lists
 
 ### Daily
-- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- **[calcom/cal.diy](https://github.com/calcom/cal.diy)** — Scheduling infrastructure for absolutely everyone.
-- **[oven-sh/bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** — Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-- **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** — Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
-- **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** — The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
-- **[NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)** — End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
-- **[dograh-hq/dograh](https://github.com/dograh-hq/dograh)** — Open Source Voice Agent Platform
-- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-- **[Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer)** — Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
-- **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** — Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
-- **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** — Independent technology for modern publishing, memberships, subscriptions and newsletters.
-- **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform.
-- **[knadh/listmonk](https://github.com/knadh/listmonk)** — High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- **[plausible/analytics](https://github.com/plausible/analytics)** — Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
-- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
-- **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** — 12 Lessons to Get Started Building AI Agents
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- **[earendil-works/pi](https://github.com/earendil-works/pi)** — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- **[multica-ai/multica](https://github.com/multica-ai/multica)** — The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
+- **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)** — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch.
+- **[dotnet/skills](https://github.com/dotnet/skills)** — Repository for skills to assist AI coding agents with .NET and C#
+- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** — NVR with realtime local object detection for IP cameras
+- **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
 
 ### Weekly
-- **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks
-- **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
-- **[anthropics/financial-services](https://github.com/anthropics/financial-services)** — No description
-- **[oven-sh/bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
 - **[ruvnet/RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- **[apernet/hysteria](https://github.com/apernet/hysteria)** — Hysteria is a powerful, lightning fast and censorship resistant proxy.
-- **[decolua/9router](https://github.com/decolua/9router)** — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** — "AI-Trader: 100% Fully-Automated Agent-Native Trading"
-- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** — Your agent writes bad React. This catches it
-- **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** — Coding agent for DeepSeek models that runs in your terminal
-- **[facebook/pyrefly](https://github.com/facebook/pyrefly)** — A fast type checker and language server for Python
+- **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+- **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** — ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)** — 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
 - **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+- **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
+- **[cursor/plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
 
 ### Monthly
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
-- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** — FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
-- **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** — A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - **[anthropics/financial-services](https://github.com/anthropics/financial-services)** — No description
-- **[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** — ALL IN ONE Hacking Tool For Hackers
-- **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks
-- **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** — Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-- **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** — Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+- **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** — A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
+- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - **[decolua/9router](https://github.com/decolua/9router)** — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+- **[HKUDS/ViMax](https://github.com/HKUDS/ViMax)** — "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 - **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+- **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
+- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- **[CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)** — DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+- **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)** — Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 
 ### Cross-list Duplicates
-- **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** — appears in D, M
+- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — appears in D, M
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — appears in W, M
-- **[anthropics/financial-services](https://github.com/anthropics/financial-services)** — appears in W, M
-- **[decolua/9router](https://github.com/decolua/9router)** — appears in W, M
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** — appears in W, M
-- **[oven-sh/bun](https://github.com/oven-sh/bun)** — appears in D, W
+- **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — appears in W, M
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** — appears in D, W
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** — appears in D, W, M
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — appears in D, M
 - **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** — appears in W, M
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — appears in D, W
+- **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** — appears in W, M
 
 ## 🏗️ Part 2: Categorized Analysis
 
 ### ⌨️ Terminal Agents & AI Coding
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | M | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
-| **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** | D | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. |
+| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | D/M | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
 | **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** | M | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
-| **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** | W | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
-| **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** | D | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** | W | Coding agent for DeepSeek models that runs in your terminal |
-| **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** | W | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** | D | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
-| **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** | D | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. |
-| **[Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer)** | D | Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions. |
-| **[NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)** | D | End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | M | The agent that grows with you |
+| **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** | W | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| **[HKUDS/ViMax](https://github.com/HKUDS/ViMax)** | M | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
+| **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** | W/M | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** | W | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** | D/W | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 | **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** | M | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | M | Production-grade engineering skills for AI coding agents. |
-| **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** | W | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
-| **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** | D | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
-| **[decolua/9router](https://github.com/decolua/9router)** | W/M | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
-| **[dograh-hq/dograh](https://github.com/dograh-hq/dograh)** | D | Open Source Voice Agent Platform |
-| **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** | M | Write HTML. Render video. Built for agents. |
-| **[mattpocock/skills](https://github.com/mattpocock/skills)** | W/M | Skills for Real Engineers. Straight from my .claude directory. |
-| **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** | D | 12 Lessons to Get Started Building AI Agents |
-| **[millionco/react-doctor](https://github.com/millionco/react-doctor)** | W | Your agent writes bad React. This catches it |
-| **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** | M | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** | D | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** | D | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** | M | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** | W | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** | D | Master programming by recreating your favorite technologies from scratch. |
+| **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** | D/W/M | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
+| **[decolua/9router](https://github.com/decolua/9router)** | M | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
+| **[dotnet/skills](https://github.com/dotnet/skills)** | D | Repository for skills to assist AI coding agents with .NET and C# |
+| **[earendil-works/pi](https://github.com/earendil-works/pi)** | D | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | D | Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents |
+| **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)** | M | Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() |
+| **[mattpocock/skills](https://github.com/mattpocock/skills)** | M | Skills for Real Engineers. Straight from my .claude directory. |
+| **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** | D | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
+| **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** | D/M | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| **[multica-ai/multica](https://github.com/multica-ai/multica)** | D | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | W | An agentic skills framework & software development methodology that works. |
 | **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** | W/M | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 | **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** | M | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
-| **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** | D | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
-| **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** | M | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** | D | Kronos: A Foundation Model for the Language of Financial Markets |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | W | Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
 
 ### 🛡️ Autonomous Security
 | Project | Span | Description |
@@ -117,9 +120,7 @@
 ### ⚙️ AI Infra & Protocols
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** | D/M | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
 | **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** | W/M | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
-| **[medusajs/medusa](https://github.com/medusajs/medusa)** | D | The world's most flexible commerce platform. |
 
 ### 🔓 Prompt Engineering & Data
 | Project | Span | Description |
@@ -129,21 +130,19 @@
 ### 🛠️ Productivity & Specialized Apps
 | Project | Span | Description |
 | :--- | :---: | :--- |
+| **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)** | D | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 | **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** | M | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
-| **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** | M | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
-| **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** | D | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
-| **[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** | M | ALL IN ONE Hacking Tool For Hackers |
-| **[anthropics/financial-services](https://github.com/anthropics/financial-services)** | W/M | No description |
-| **[apernet/hysteria](https://github.com/apernet/hysteria)** | W | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
-| **[calcom/cal.diy](https://github.com/calcom/cal.diy)** | D | Scheduling infrastructure for absolutely everyone. |
-| **[facebook/pyrefly](https://github.com/facebook/pyrefly)** | W | A fast type checker and language server for Python |
-| **[knadh/listmonk](https://github.com/knadh/listmonk)** | D | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. |
-| **[oven-sh/bun](https://github.com/oven-sh/bun)** | D/W | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| **[plausible/analytics](https://github.com/plausible/analytics)** | D | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. |
+| **[CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)** | M | DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats. |
+| **[anthropics/financial-services](https://github.com/anthropics/financial-services)** | M | No description |
+| **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** | D | NVR with realtime local object detection for IP cameras |
+| **[cursor/plugins](https://github.com/cursor/plugins)** | W | Cursor plugin specification and official plugins |
+| **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)** | W | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step. |
+| **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** | D/W | Learn it. Build it. Ship it for others. |
 | **[ruvnet/RuView](https://github.com/ruvnet/RuView)** | W | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 | **[soxoj/maigret](https://github.com/soxoj/maigret)** | M | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** | D | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** | W | Let's use AI to Earn! |
+| **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** | W | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** | W | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** | W/M | Let's use AI to Earn! |
 
 ## 💡 Part 3: Strategic Insights
 
