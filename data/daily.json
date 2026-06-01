@@ -1,82 +1,77 @@
 [
   {
-    "path": "Lum1104/Understand-Anything",
-    "url": "https://github.com/Lum1104/Understand-Anything",
-    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+    "path": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
   },
   {
-    "path": "rohitg00/ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others."
+    "path": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown."
   },
   {
-    "path": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    "path": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
   },
   {
-    "path": "anthropics/knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    "path": "nesquena/hermes-webui",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
   },
   {
-    "path": "multica-ai/andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    "path": "EveryInc/compound-engineering-plugin",
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
   },
   {
-    "path": "earendil-works/pi",
-    "url": "https://github.com/earendil-works/pi",
-    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    "path": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com"
   },
   {
-    "path": "Alishahryar1/free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)"
+    "path": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
   },
   {
-    "path": "colbymchenry/codegraph",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+    "path": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
   },
   {
-    "path": "multica-ai/multica",
-    "url": "https://github.com/multica-ai/multica",
-    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    "path": "FareedKhan-dev/train-llm-from-scratch",
+    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "description": "A straightforward method for training your LLM, from downloading data to generating text."
   },
   {
-    "path": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    "path": "supermemoryai/supermemory",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era."
   },
   {
-    "path": "manaflow-ai/cmux",
-    "url": "https://github.com/manaflow-ai/cmux",
-    "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents"
+    "path": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
   },
   {
-    "path": "666ghj/MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    "path": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+  },
+  {
+    "path": "nicobailon/pi-subagents",
+    "url": "https://github.com/nicobailon/pi-subagents",
+    "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing"
+  },
+  {
+    "path": "emmabostian/developer-portfolios",
+    "url": "https://github.com/emmabostian/developer-portfolios",
+    "description": "A list of developer portfolios for your inspiration"
   },
   {
     "path": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch."
-  },
-  {
-    "path": "dotnet/skills",
-    "url": "https://github.com/dotnet/skills",
-    "description": "Repository for skills to assist AI coding agents with .NET and C#"
-  },
-  {
-    "path": "blakeblackshear/frigate",
-    "url": "https://github.com/blakeblackshear/frigate",
-    "description": "NVR with realtime local object detection for IP cameras"
-  },
-  {
-    "path": "mukul975/Anthropic-Cybersecurity-Skills",
-    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0"
   }
 ]

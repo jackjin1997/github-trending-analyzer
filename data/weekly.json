@@ -1,33 +1,8 @@
 [
   {
-    "path": "colbymchenry/codegraph",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
-  },
-  {
-    "path": "tinyhumansai/openhuman",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
-  },
-  {
-    "path": "Imbad0202/academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
-  },
-  {
-    "path": "rohitg00/ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others."
-  },
-  {
-    "path": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
-  },
-  {
-    "path": "rohitg00/agentmemory",
-    "url": "https://github.com/rohitg00/agentmemory",
-    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    "path": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
   },
   {
     "path": "Lum1104/Understand-Anything",
@@ -35,53 +10,88 @@
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
   },
   {
-    "path": "CloakHQ/CloakBrowser",
-    "url": "https://github.com/CloakHQ/CloakBrowser",
-    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    "path": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
   },
   {
-    "path": "supertone-inc/supertonic",
-    "url": "https://github.com/supertone-inc/supertonic",
-    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+    "path": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others."
   },
   {
-    "path": "can1357/oh-my-pi",
-    "url": "https://github.com/can1357/oh-my-pi",
-    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
+    "path": "hardikpandya/stop-slop",
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose"
   },
   {
-    "path": "datawhalechina/easy-vibe",
-    "url": "https://github.com/datawhalechina/easy-vibe",
-    "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step."
+    "path": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown."
   },
   {
-    "path": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works."
+    "path": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
   },
   {
-    "path": "K-Dense-AI/scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    "path": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
   },
   {
-    "path": "stablyai/orca",
-    "url": "https://github.com/stablyai/orca",
-    "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    "path": "mukul975/Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0"
   },
   {
-    "path": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
-  },
-  {
-    "path": "yikart/AiToEarn",
-    "url": "https://github.com/yikart/AiToEarn",
-    "description": "Let's use AI to Earn!"
+    "path": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
   },
   {
     "path": "cursor/plugins",
     "url": "https://github.com/cursor/plugins",
     "description": "Cursor plugin specification and official plugins"
+  },
+  {
+    "path": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "path": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models"
+  },
+  {
+    "path": "microsoft/agent-governance-toolkit",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10."
+  },
+  {
+    "path": "Chachamaru127/claude-code-harness",
+    "url": "https://github.com/Chachamaru127/claude-code-harness",
+    "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle"
+  },
+  {
+    "path": "dograh-hq/dograh",
+    "url": "https://github.com/dograh-hq/dograh",
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support."
+  },
+  {
+    "path": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal."
+  },
+  {
+    "path": "run-llama/liteparse",
+    "url": "https://github.com/run-llama/liteparse",
+    "description": "A fast, helpful, and open-source document parser"
+  },
+  {
+    "path": "iii-hq/iii",
+    "url": "https://github.com/iii-hq/iii",
+    "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever."
   }
 ]
