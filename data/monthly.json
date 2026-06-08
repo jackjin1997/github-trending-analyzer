@@ -5,9 +5,9 @@
     "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
   },
   {
-    "path": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "description": ""
+    "path": "chopratejas/headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
   },
   {
     "path": "CloakHQ/CloakBrowser",
@@ -15,39 +15,14 @@
     "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
   },
   {
-    "path": "rohitg00/agentmemory",
-    "url": "https://github.com/rohitg00/agentmemory",
-    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
-  },
-  {
     "path": "Lum1104/Understand-Anything",
     "url": "https://github.com/Lum1104/Understand-Anything",
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
   },
   {
-    "path": "Imbad0202/academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
-  },
-  {
-    "path": "HKUDS/ViMax",
-    "url": "https://github.com/HKUDS/ViMax",
-    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
-  },
-  {
-    "path": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .claude directory."
-  },
-  {
-    "path": "rohitg00/ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others."
-  },
-  {
-    "path": "decolua/9router",
-    "url": "https://github.com/decolua/9router",
-    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+    "path": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
   },
   {
     "path": "harry0703/MoneyPrinterTurbo",
@@ -55,33 +30,68 @@
     "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
   },
   {
-    "path": "yikart/AiToEarn",
-    "url": "https://github.com/yikart/AiToEarn",
-    "description": "Let's use AI to Earn!"
+    "path": "fathah/hermes-desktop",
+    "url": "https://github.com/fathah/hermes-desktop",
+    "description": "Desktop Companion for Hermes Agent"
   },
   {
-    "path": "bytedance/UI-TARS-desktop",
-    "url": "https://github.com/bytedance/UI-TARS-desktop",
-    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+    "path": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
   },
   {
-    "path": "ruvnet/ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
-  },
-  {
-    "path": "AIDC-AI/Pixelle-Video",
-    "url": "https://github.com/AIDC-AI/Pixelle-Video",
-    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
-  },
-  {
-    "path": "multica-ai/andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    "path": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others."
   },
   {
     "path": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+  },
+  {
+    "path": "yikart/AiToEarn",
+    "url": "https://github.com/yikart/AiToEarn",
+    "description": "Let's use AI to Earn!"
+  },
+  {
+    "path": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory."
+  },
+  {
+    "path": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
+  },
+  {
+    "path": "HKUDS/ViMax",
+    "url": "https://github.com/HKUDS/ViMax",
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
+  },
+  {
+    "path": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "description": ""
+  },
+  {
+    "path": "millionco/react-doctor",
+    "url": "https://github.com/millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it"
+  },
+  {
+    "path": "decolua/9router",
+    "url": "https://github.com/decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+  },
+  {
+    "path": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown."
+  },
+  {
+    "path": "nesquena/hermes-webui",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
   }
 ]

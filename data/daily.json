@@ -1,53 +1,38 @@
 [
   {
-    "path": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    "path": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
   },
   {
-    "path": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "Python tool for converting files and office documents to Markdown."
+    "path": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library"
   },
   {
-    "path": "D4Vinci/Scrapling",
-    "url": "https://github.com/D4Vinci/Scrapling",
-    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    "path": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
   },
   {
-    "path": "nesquena/hermes-webui",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
+    "path": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you"
   },
   {
-    "path": "EveryInc/compound-engineering-plugin",
-    "url": "https://github.com/EveryInc/compound-engineering-plugin",
-    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
+    "path": "lfnovo/open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features"
   },
   {
-    "path": "github/docs",
-    "url": "https://github.com/github/docs",
-    "description": "The open-source repo for docs.github.com"
+    "path": "yikart/AiToEarn",
+    "url": "https://github.com/yikart/AiToEarn",
+    "description": "Let's use AI to Earn!"
   },
   {
-    "path": "OpenBMB/VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
-  },
-  {
-    "path": "revfactory/harness",
-    "url": "https://github.com/revfactory/harness",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
-  },
-  {
-    "path": "FareedKhan-dev/train-llm-from-scratch",
-    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-    "description": "A straightforward method for training your LLM, from downloading data to generating text."
-  },
-  {
-    "path": "supermemoryai/supermemory",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era."
+    "path": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
   },
   {
     "path": "Crosstalk-Solutions/project-nomad",
@@ -55,23 +40,38 @@
     "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
   },
   {
-    "path": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    "path": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++"
   },
   {
-    "path": "nicobailon/pi-subagents",
-    "url": "https://github.com/nicobailon/pi-subagents",
-    "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing"
+    "path": "RyanCodrai/turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings"
   },
   {
-    "path": "emmabostian/developer-portfolios",
-    "url": "https://github.com/emmabostian/developer-portfolios",
-    "description": "A list of developer portfolios for your inspiration"
+    "path": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。"
   },
   {
-    "path": "codecrafters-io/build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "description": "Master programming by recreating your favorite technologies from scratch."
+    "path": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "description": "OpenAI Plugins"
+  },
+  {
+    "path": "refactoringhq/tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases"
+  },
+  {
+    "path": "HunxByts/GhostTrack",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number"
+  },
+  {
+    "path": "microsoft/pg_durable",
+    "url": "https://github.com/microsoft/pg_durable",
+    "description": "PostgreSQL in-database durable execution"
   }
 ]
