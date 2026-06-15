@@ -2,7 +2,7 @@
   {
     "path": "colbymchenry/codegraph",
     "url": "https://github.com/colbymchenry/codegraph",
-    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
   },
   {
     "path": "chopratejas/headroom",
@@ -10,19 +10,9 @@
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
   },
   {
-    "path": "CloakHQ/CloakBrowser",
-    "url": "https://github.com/CloakHQ/CloakBrowser",
-    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
-  },
-  {
-    "path": "Lum1104/Understand-Anything",
-    "url": "https://github.com/Lum1104/Understand-Anything",
+    "path": "Egonex-AI/Understand-Anything",
+    "url": "https://github.com/Egonex-AI/Understand-Anything",
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
-  },
-  {
-    "path": "rohitg00/agentmemory",
-    "url": "https://github.com/rohitg00/agentmemory",
-    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
   },
   {
     "path": "harry0703/MoneyPrinterTurbo",
@@ -30,14 +20,9 @@
     "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
   },
   {
-    "path": "fathah/hermes-desktop",
-    "url": "https://github.com/fathah/hermes-desktop",
-    "description": "Desktop Companion for Hermes Agent"
-  },
-  {
-    "path": "Imbad0202/academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+    "path": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
   },
   {
     "path": "rohitg00/ai-engineering-from-scratch",
@@ -45,19 +30,9 @@
     "description": "Learn it. Build it. Ship it for others."
   },
   {
-    "path": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
-  },
-  {
-    "path": "yikart/AiToEarn",
-    "url": "https://github.com/yikart/AiToEarn",
-    "description": "Let's use AI to Earn!"
-  },
-  {
-    "path": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .claude directory."
+    "path": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
   },
   {
     "path": "can1357/oh-my-pi",
@@ -65,24 +40,24 @@
     "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
   },
   {
-    "path": "HKUDS/ViMax",
-    "url": "https://github.com/HKUDS/ViMax",
-    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
+    "path": "apple/container",
+    "url": "https://github.com/apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon."
   },
   {
-    "path": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "description": ""
+    "path": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
   },
   {
-    "path": "millionco/react-doctor",
-    "url": "https://github.com/millionco/react-doctor",
-    "description": "Your agent writes bad React. This catches it"
+    "path": "hardikpandya/stop-slop",
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose"
   },
   {
-    "path": "decolua/9router",
-    "url": "https://github.com/decolua/9router",
-    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+    "path": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
   },
   {
     "path": "microsoft/markitdown",
@@ -90,8 +65,43 @@
     "description": "Python tool for converting files and office documents to Markdown."
   },
   {
-    "path": "nesquena/hermes-webui",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
+    "path": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
+  },
+  {
+    "path": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+  },
+  {
+    "path": "HKUDS/ViMax",
+    "url": "https://github.com/HKUDS/ViMax",
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
+  },
+  {
+    "path": "CloakHQ/CloakBrowser",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+  },
+  {
+    "path": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory."
+  },
+  {
+    "path": "supertone-inc/supertonic",
+    "url": "https://github.com/supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+  },
+  {
+    "path": "fathah/hermes-desktop",
+    "url": "https://github.com/fathah/hermes-desktop",
+    "description": "Desktop Companion for Hermes Agent"
+  },
+  {
+    "path": "TencentCloud/TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies."
   }
 ]

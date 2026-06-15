@@ -1,77 +1,77 @@
 [
   {
-    "path": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    "path": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world"
   },
   {
-    "path": "opencv/opencv",
-    "url": "https://github.com/opencv/opencv",
-    "description": "Open Source Computer Vision Library"
+    "path": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
   },
   {
-    "path": "Leonxlnx/taste-skill",
-    "url": "https://github.com/Leonxlnx/taste-skill",
-    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
+    "path": "pytest-dev/pytest",
+    "url": "https://github.com/pytest-dev/pytest",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
   },
   {
-    "path": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "description": "The agent that grows with you"
+    "path": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "description": "Rust-based platform for the Web"
   },
   {
-    "path": "lfnovo/open-notebook",
-    "url": "https://github.com/lfnovo/open-notebook",
-    "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+    "path": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
   },
   {
-    "path": "yikart/AiToEarn",
-    "url": "https://github.com/yikart/AiToEarn",
-    "description": "Let's use AI to Earn!"
+    "path": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks."
   },
   {
-    "path": "aaif-goose/goose",
-    "url": "https://github.com/aaif-goose/goose",
-    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    "path": "meshery/meshery",
+    "url": "https://github.com/meshery/meshery",
+    "description": "Meshery, the cloud native manager"
   },
   {
-    "path": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
+    "path": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
   },
   {
-    "path": "ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp",
-    "description": "LLM inference in C/C++"
+    "path": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
   },
   {
-    "path": "RyanCodrai/turbovec",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "description": "A vector index built on TurboQuant, written in Rust with Python bindings"
+    "path": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "description": "Introduction to Autonomous Robots"
   },
   {
-    "path": "TapXWorld/ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "description": "所有小初高、大学PDF教材。"
+    "path": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets"
   },
   {
-    "path": "openai/plugins",
-    "url": "https://github.com/openai/plugins",
-    "description": "OpenAI Plugins"
+    "path": "music-assistant/server",
+    "url": "https://github.com/music-assistant/server",
+    "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike."
   },
   {
-    "path": "refactoringhq/tolaria",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "description": "Desktop app to manage markdown knowledge bases"
+    "path": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "description": "M3U Playlist for free TV channels"
   },
   {
-    "path": "HunxByts/GhostTrack",
-    "url": "https://github.com/HunxByts/GhostTrack",
-    "description": "Useful tool to track location or mobile number"
+    "path": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox"
   },
   {
-    "path": "microsoft/pg_durable",
-    "url": "https://github.com/microsoft/pg_durable",
-    "description": "PostgreSQL in-database durable execution"
+    "path": "andrewyng/aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers"
   }
 ]
