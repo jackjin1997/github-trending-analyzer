@@ -1,33 +1,8 @@
 [
   {
-    "path": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
-  },
-  {
-    "path": "apple/container",
-    "url": "https://github.com/apple/container",
-    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon."
-  },
-  {
-    "path": "phuryn/pm-skills",
-    "url": "https://github.com/phuryn/pm-skills",
-    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth."
-  },
-  {
-    "path": "chopratejas/headroom",
-    "url": "https://github.com/chopratejas/headroom",
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
-  },
-  {
-    "path": "NVIDIA/SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks."
-  },
-  {
-    "path": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents."
+    "path": "DeusData/codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
   },
   {
     "path": "Panniantong/Agent-Reach",
@@ -35,68 +10,83 @@
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
   },
   {
-    "path": "refactoringhq/tolaria",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "description": "Desktop app to manage markdown knowledge bases"
+    "path": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world"
   },
   {
-    "path": "openai/plugins",
-    "url": "https://github.com/openai/plugins",
-    "description": "OpenAI Plugins"
+    "path": "n0-computer/iroh",
+    "url": "https://github.com/n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust."
   },
   {
-    "path": "Leonxlnx/taste-skill",
-    "url": "https://github.com/Leonxlnx/taste-skill",
-    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
+    "path": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
   },
   {
-    "path": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "Python tool for converting files and office documents to Markdown."
+    "path": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks."
   },
   {
-    "path": "aaif-goose/goose",
-    "url": "https://github.com/aaif-goose/goose",
-    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    "path": "asgeirtj/system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
   },
   {
-    "path": "roboflow/supervision",
-    "url": "https://github.com/roboflow/supervision",
-    "description": "We write your reusable computer vision tools. 💜"
+    "path": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
   },
   {
-    "path": "music-assistant/server",
-    "url": "https://github.com/music-assistant/server",
-    "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike."
+    "path": "withastro/flue",
+    "url": "https://github.com/withastro/flue",
+    "description": "The sandbox agent framework."
   },
   {
-    "path": "safishamsi/graphify",
-    "url": "https://github.com/safishamsi/graphify",
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph."
+    "path": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents."
   },
   {
-    "path": "microsoft/PowerToys",
-    "url": "https://github.com/microsoft/PowerToys",
-    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
+    "path": "Kong/insomnia",
+    "url": "https://github.com/Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage."
   },
   {
-    "path": "mattermost/mattermost",
-    "url": "https://github.com/mattermost/mattermost",
-    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
+    "path": "tursodatabase/turso",
+    "url": "https://github.com/tursodatabase/turso",
+    "description": "Turso is an in-process SQL database, compatible with SQLite."
   },
   {
-    "path": "lfnovo/open-notebook",
-    "url": "https://github.com/lfnovo/open-notebook",
-    "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+    "path": "makeplane/plane",
+    "url": "https://github.com/makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
   },
   {
-    "path": "opencv/opencv",
-    "url": "https://github.com/opencv/opencv",
-    "description": "Open Source Computer Vision Library"
+    "path": "LMCache/LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer"
   },
   {
-    "path": "huggingface/OpenEnv",
-    "url": "https://github.com/huggingface/OpenEnv",
-    "description": "An interface library for RL post training with environments."
+    "path": "meshery/meshery",
+    "url": "https://github.com/meshery/meshery",
+    "description": "Meshery, the cloud native manager"
+  },
+  {
+    "path": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
+  },
+  {
+    "path": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "description": "Rust-based platform for the Web"
+  },
+  {
+    "path": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
   }
 ]
