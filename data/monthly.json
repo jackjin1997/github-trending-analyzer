@@ -1,10 +1,5 @@
 [
   {
-    "path": "apple/container",
-    "url": "https://github.com/apple/container",
-    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon."
-  },
-  {
     "path": "DeusData/codebase-memory-mcp",
     "url": "https://github.com/DeusData/codebase-memory-mcp",
     "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
@@ -20,29 +15,19 @@
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
   },
   {
-    "path": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
-  },
-  {
-    "path": "iptv-org/iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "description": "Collection of publicly available IPTV channels from all over the world"
-  },
-  {
-    "path": "interviewstreet/hiring-agent",
-    "url": "https://github.com/interviewstreet/hiring-agent",
-    "description": "AI agent to evaluate and score resumes."
-  },
-  {
-    "path": "phuryn/pm-skills",
-    "url": "https://github.com/phuryn/pm-skills",
-    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth."
-  },
-  {
     "path": "asgeirtj/system_prompts_leaks",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+  },
+  {
+    "path": "kunchenguid/no-mistakes",
+    "url": "https://github.com/kunchenguid/no-mistakes",
+    "description": "git push no-mistakes"
+  },
+  {
+    "path": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
   },
   {
     "path": "ogulcancelik/herdr",
@@ -55,14 +40,44 @@
     "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
   },
   {
-    "path": "usestrix/strix",
-    "url": "https://github.com/usestrix/strix",
-    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    "path": "Zackriya-Solutions/meetily",
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes"
   },
   {
-    "path": "kenn-io/agentsview",
-    "url": "https://github.com/kenn-io/agentsview",
-    "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents."
+    "path": "interviewstreet/hiring-agent",
+    "url": "https://github.com/interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes."
+  },
+  {
+    "path": "alibaba/zvec",
+    "url": "https://github.com/alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database"
+  },
+  {
+    "path": "diegosouzapw/OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
+  },
+  {
+    "path": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+  },
+  {
+    "path": "simplex-chat/simplex-chat",
+    "url": "https://github.com/simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
+  },
+  {
+    "path": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world"
+  },
+  {
+    "path": "gabime/spdlog",
+    "url": "https://github.com/gabime/spdlog",
+    "description": "Fast C++ logging library."
   },
   {
     "path": "n0-computer/iroh",
@@ -70,33 +85,23 @@
     "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps."
   },
   {
-    "path": "roboflow/supervision",
-    "url": "https://github.com/roboflow/supervision",
-    "description": "We write your reusable computer vision tools. 💜"
+    "path": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks."
   },
   {
-    "path": "openai/plugins",
-    "url": "https://github.com/openai/plugins",
-    "description": "OpenAI Plugins"
+    "path": "mauriceboe/TREK",
+    "url": "https://github.com/mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more."
   },
   {
-    "path": "t8y2/dbx",
-    "url": "https://github.com/t8y2/dbx",
-    "description": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。"
+    "path": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
   },
   {
-    "path": "lfnovo/open-notebook",
-    "url": "https://github.com/lfnovo/open-notebook",
-    "description": "An Open Source implementation of Notebook LM with more flexibility and features"
-  },
-  {
-    "path": "mukul975/Anthropic-Cybersecurity-Skills",
-    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
-  },
-  {
-    "path": "every-app/open-seo",
-    "url": "https://github.com/every-app/open-seo",
-    "description": "Open source alternative to Semrush and Ahrefs"
+    "path": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine."
   }
 ]
