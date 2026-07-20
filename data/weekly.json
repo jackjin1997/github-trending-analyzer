@@ -1,58 +1,38 @@
 [
   {
-    "path": "Zackriya-Solutions/meetily",
-    "url": "https://github.com/Zackriya-Solutions/meetily",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes"
+    "path": "Nutlope/hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
   },
   {
-    "path": "wonderwhy-er/DesktopCommanderMCP",
-    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
+    "path": "OpenCut-app/OpenCut",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative"
   },
   {
-    "path": "openai/codex-plugin-cc",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "description": "Use Codex from Claude Code to review code or delegate tasks."
+    "path": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
   },
   {
-    "path": "TencentCloud/CubeSandbox",
-    "url": "https://github.com/TencentCloud/CubeSandbox",
-    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+    "path": "HKUDS/Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\""
   },
   {
-    "path": "abseil/abseil-cpp",
-    "url": "https://github.com/abseil/abseil-cpp",
-    "description": "Abseil Common Libraries (C++)"
+    "path": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
   },
   {
-    "path": "ogulcancelik/herdr",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "description": "agent multiplexer that lives in your terminal."
+    "path": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory."
   },
   {
-    "path": "asgeirtj/system_prompts_leaks",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
-  },
-  {
-    "path": "diegosouzapw/OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
-  },
-  {
-    "path": "stablyai/orca",
-    "url": "https://github.com/stablyai/orca",
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
-  },
-  {
-    "path": "bradautomates/claude-video",
-    "url": "https://github.com/bradautomates/claude-video",
-    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
-  },
-  {
-    "path": "facebook/astryx",
-    "url": "https://github.com/facebook/astryx",
-    "description": "An open source design system that's fully customizable and agent ready"
+    "path": "kangarooking/cangjie-skill",
+    "url": "https://github.com/kangarooking/cangjie-skill",
+    "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
   },
   {
     "path": "iOfficeAI/OfficeCLI",
@@ -60,48 +40,33 @@
     "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
   },
   {
-    "path": "usestrix/strix",
-    "url": "https://github.com/usestrix/strix",
-    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    "path": "ibelick/ui-skills",
+    "url": "https://github.com/ibelick/ui-skills",
+    "description": "Skills for Design Engineers"
   },
   {
-    "path": "tt-a1i/archify",
-    "url": "https://github.com/tt-a1i/archify",
-    "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export"
+    "path": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal"
   },
   {
-    "path": "alibaba/page-agent",
-    "url": "https://github.com/alibaba/page-agent",
-    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    "path": "openinterpreter/openinterpreter",
+    "url": "https://github.com/openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3"
   },
   {
-    "path": "alirezarezvani/claude-skills",
-    "url": "https://github.com/alirezarezvani/claude-skills",
-    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
+    "path": "tirth8205/code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
   },
   {
-    "path": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "description": "Chrome DevTools for coding agents"
+    "path": "earendil-works/pi",
+    "url": "https://github.com/earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
   },
   {
-    "path": "vxcontrol/pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
-  },
-  {
-    "path": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
-  },
-  {
-    "path": "JuliusBrussee/caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
-  },
-  {
-    "path": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design."
+    "path": "anthropics/cwc-workshops",
+    "url": "https://github.com/anthropics/cwc-workshops",
+    "description": ""
   }
 ]

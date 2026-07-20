@@ -1,118 +1,110 @@
-# GitHub Trending 中文报告 (2026-07-13)
+# GitHub Trending 中文报告 (2026-07-20)
 
 ## 📅 Part 1: Full Trending Lists
 
 ### Daily
-- **[Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-- **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent"
-- **[PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)** — Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-- **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- **[home-assistant/core](https://github.com/home-assistant/core)** — 🏡 Open source home automation that puts local control and privacy first.
-- **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-- **[ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)** — An open-source background agents coding system
-- **[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)** — Advanced UX and interoperability extension for Wand (WeMod) app
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description
-- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — An AI Hedge Fund Team
-- **[chen08209/FlClash](https://github.com/chen08209/FlClash)** — A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-- **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
-- **[par274/sharpemu](https://github.com/par274/sharpemu)** — An experimental PlayStation 5 emulator project.
-- **[malisper/pgrust](https://github.com/malisper/pgrust)** — Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
-- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
+- **[KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)** — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
+- **[andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop)** — An unofficial desktop client for Jellyfin
+- **[github/copilot-sdk](https://github.com/github/copilot-sdk)** — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- **[PostHog/posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+- **[microsoft/terminal](https://github.com/microsoft/terminal)** — The new Windows Terminal and the original Windows console host, all in the same place!
+- **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+- **[1jehuang/jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness
+- **[trycua/cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** — Kimi Code CLI is your next CLI agent.
+- **[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** — No description
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch.
+- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU
+- **[Canner/WrenAI](https://github.com/Canner/WrenAI)** — GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.
+- **[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)** — 计算机自学指南
 
 ### Weekly
-- **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-- **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** — Use Codex from Claude Code to review code or delegate tasks.
-- **[TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** — Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
-- **[abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)** — Abseil Common Libraries (C++)
-- **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** — agent multiplexer that lives in your terminal.
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-- **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-- **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-- **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-- **[facebook/astryx](https://github.com/facebook/astryx)** — An open source design system that's fully customizable and agent ready
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent"
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+- **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-- **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
-- **[alibaba/page-agent](https://github.com/alibaba/page-agent)** — JavaScript in-page GUI agent. Control web interfaces with natural language.
-- **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** — 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
-- **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents
-- **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** — Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
+- **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** — Skills for Design Engineers
+- **[openai/codex](https://github.com/openai/codex)** — Lightweight coding agent that runs in your terminal
+- **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** — A coding agent for open models like Kimi K3
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- **[earendil-works/pi](https://github.com/earendil-works/pi)** — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- **[anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops)** — No description
 
 ### Monthly
-- **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-- **[kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)** — git push no-mistakes
+- **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** — agent multiplexer that lives in your terminal.
+- **[kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)** — git push no-mistakes
+- **[catchorg/Catch2](https://github.com/catchorg/Catch2)** — A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+- **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** — agent multiplexer that lives in your terminal.
 - **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-- **[interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)** — AI agent to evaluate and score resumes.
-- **[alibaba/zvec](https://github.com/alibaba/zvec)** — A lightweight, lightning-fast, in-process vector database
-- **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+- **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.
 - **[alibaba/page-agent](https://github.com/alibaba/page-agent)** — JavaScript in-page GUI agent. Control web interfaces with natural language.
-- **[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)** — SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-- **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
-- **[gabime/spdlog](https://github.com/gabime/spdlog)** — Fast C++ logging library.
-- **[n0-computer/iroh](https://github.com/n0-computer/iroh)** — IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-- **[mauriceboe/TREK](https://github.com/mauriceboe/TREK)** — A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+- **[interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)** — AI agent to evaluate and score resumes.
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - **[ocornut/imgui](https://github.com/ocornut/imgui)** — Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- **[topoteretes/cognee](https://github.com/topoteretes/cognee)** — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+- **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** — macOS video editor built for AI
+- **[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)** — SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- **[gabime/spdlog](https://github.com/gabime/spdlog)** — Fast C++ logging library.
+- **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+- **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+- **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** — Clone any website with one command using AI coding agents
 
 ### Cross-list Duplicates
-- **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** — appears in W, M
-- **[alibaba/page-agent](https://github.com/alibaba/page-agent)** — appears in W, M
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — appears in W, M
-- **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — appears in W, M
-- **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** — appears in W, M
-- **[stablyai/orca](https://github.com/stablyai/orca)** — appears in W, M
-- **[usestrix/strix](https://github.com/usestrix/strix)** — appears in W, M
-- **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — appears in D, W
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — appears in W, M
+- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** — appears in W, M
+- **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** — appears in W, M
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — appears in D, W
 
 ## 🏗️ Part 2: Categorized Analysis
 
 ### ⌨️ Terminal Agents & AI Coding
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** | W | Chrome DevTools for coding agents |
-| **[ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)** | D | An open-source background agents coding system |
+| **[1jehuang/jcode](https://github.com/1jehuang/jcode)** | D | Coding Agent Harness |
+| **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** | D | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
+| **[Canner/WrenAI](https://github.com/Canner/WrenAI)** | D | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. |
 | **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** | M | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
-| **[Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** | D | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
-| **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** | D | "Vibe-Trading: Your Personal Trading Agent" |
-| **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** | W | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
-| **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** | M | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
-| **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** | D | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** | W | "Vibe-Trading: Your Personal Trading Agent" |
+| **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** | M | Clone any website with one command using AI coding agents |
+| **[KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)** | D | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. |
+| **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** | D | Kimi Code CLI is your next CLI agent. |
+| **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** | W/M | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 | **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | M | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** | D | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| **[TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** | W | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
-| **[alibaba/page-agent](https://github.com/alibaba/page-agent)** | W/M | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-| **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** | W | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
-| **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** | D | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** | W/M | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
-| **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** | W | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| **[PostHog/posthog](https://github.com/PostHog/posthog)** | D | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** | W | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| **[alibaba/page-agent](https://github.com/alibaba/page-agent)** | M | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** | M | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** | D | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
 | **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** | M | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
-| **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** | D | CLI tool for configuring and monitoring Claude Code |
-| **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** | W/M | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
-| **[facebook/astryx](https://github.com/facebook/astryx)** | W | An open source design system that's fully customizable and agent ready |
-| **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** | W | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
+| **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** | D | Master programming by recreating your favorite technologies from scratch. |
+| **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** | M | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors. |
+| **[earendil-works/pi](https://github.com/earendil-works/pi)** | W | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| **[github/copilot-sdk](https://github.com/github/copilot-sdk)** | D | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** | W/M | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
+| **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** | W | Skills for Design Engineers |
 | **[interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)** | M | AI agent to evaluate and score resumes. |
-| **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** | W/M | agent multiplexer that lives in your terminal. |
-| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | W | Use Codex from Claude Code to review code or delegate tasks. |
-| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | W | The design language that makes your AI harness better at design. |
-| **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** | D | No description |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | W/M | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
-| **[topoteretes/cognee](https://github.com/topoteretes/cognee)** | M | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. |
-| **[tt-a1i/archify](https://github.com/tt-a1i/archify)** | W | Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export |
-| **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** | W | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** | D/W | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | W | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills |
+| **[mattpocock/skills](https://github.com/mattpocock/skills)** | W | Skills for Real Engineers. Straight from my .agents directory. |
+| **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** | M | agent multiplexer that lives in your terminal. |
+| **[openai/codex](https://github.com/openai/codex)** | W | Lightweight coding agent that runs in your terminal |
+| **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** | W | A coding agent for open models like Kimi K3 |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | M | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** | D/W | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** | M | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
 ### 🛡️ Autonomous Security
 | Project | Span | Description |
@@ -122,13 +114,14 @@
 ### 🧠 Memory & Knowledge Management
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** | D | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| — | — | — |
 
 ### ⚙️ AI Infra & Protocols
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)** | D | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. |
-| **[chen08209/FlClash](https://github.com/chen08209/FlClash)** | D | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. |
+| **[catchorg/Catch2](https://github.com/catchorg/Catch2)** | M | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
+| **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** | D | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations |
+| **[lyogavin/airllm](https://github.com/lyogavin/airllm)** | D | AirLLM 70B inference with single 4GB GPU |
 
 ### 🔓 Prompt Engineering & Data
 | Project | Span | Description |
@@ -138,23 +131,23 @@
 ### 🛠️ Productivity & Specialized Apps
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** | W/M | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes |
-| **[abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)** | W | Abseil Common Libraries (C++) |
-| **[alibaba/zvec](https://github.com/alibaba/zvec)** | M | A lightweight, lightning-fast, in-process vector database |
+| **[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** | D | No description |
+| **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** | W | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ . |
+| **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** | W/M | The open-source CapCut alternative |
+| **[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)** | D | 计算机自学指南 |
+| **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** | M | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes |
+| **[andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop)** | D | An unofficial desktop client for Jellyfin |
+| **[anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops)** | W | No description |
 | **[gabime/spdlog](https://github.com/gabime/spdlog)** | M | Fast C++ logging library. |
-| **[home-assistant/core](https://github.com/home-assistant/core)** | D | 🏡 Open source home automation that puts local control and privacy first. |
-| **[iptv-org/iptv](https://github.com/iptv-org/iptv)** | M | Collection of publicly available IPTV channels from all over the world |
-| **[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)** | D | Advanced UX and interoperability extension for Wand (WeMod) app |
+| **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** | D | The open-source AI voice studio. Clone, dictate, create. |
 | **[kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)** | M | git push no-mistakes |
-| **[malisper/pgrust](https://github.com/malisper/pgrust)** | D | Postgres rewritten in Rust, now passing 100% of the Postgres regression tests |
-| **[mauriceboe/TREK](https://github.com/mauriceboe/TREK)** | M | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. |
-| **[n0-computer/iroh](https://github.com/n0-computer/iroh)** | M | IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps. |
+| **[microsoft/terminal](https://github.com/microsoft/terminal)** | D | The new Windows Terminal and the original Windows console host, all in the same place! |
 | **[ocornut/imgui](https://github.com/ocornut/imgui)** | M | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
-| **[par274/sharpemu](https://github.com/par274/sharpemu)** | D | An experimental PlayStation 5 emulator project. |
-| **[ruvnet/RuView](https://github.com/ruvnet/RuView)** | W | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** | M | macOS video editor built for AI |
+| **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** | D | Learn it. Build it. Ship it for others. |
 | **[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)** | M | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
-| **[usestrix/strix](https://github.com/usestrix/strix)** | W/M | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
-| **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** | D | An AI Hedge Fund Team |
+| **[trycua/cua](https://github.com/trycua/cua)** | D | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| **[usestrix/strix](https://github.com/usestrix/strix)** | M | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
 ## 💡 Part 3: Strategic Insights
 
