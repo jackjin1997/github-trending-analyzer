@@ -1,97 +1,87 @@
 [
   {
-    "path": "bojieli/ai-agent-book",
-    "url": "https://github.com/bojieli/ai-agent-book",
-    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    "path": "permissionlesstech/bitchat",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes"
   },
   {
-    "path": "tirth8205/code-review-graph",
-    "url": "https://github.com/tirth8205/code-review-graph",
-    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+    "path": "citrolabs/ego-lite",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
   },
   {
-    "path": "kvcache-ai/ktransformers",
-    "url": "https://github.com/kvcache-ai/ktransformers",
-    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
+    "path": "block/buzz",
+    "url": "https://github.com/block/buzz",
+    "description": "A hive mind communication platform"
   },
   {
-    "path": "rohitg00/ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others."
-  },
-  {
-    "path": "jamiepine/voicebox",
-    "url": "https://github.com/jamiepine/voicebox",
-    "description": "The open-source AI voice studio. Clone, dictate, create."
-  },
-  {
-    "path": "KnockOutEZ/wigolo",
-    "url": "https://github.com/KnockOutEZ/wigolo",
-    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
-  },
-  {
-    "path": "andrewrabert/jellium-desktop",
-    "url": "https://github.com/andrewrabert/jellium-desktop",
-    "description": "An unofficial desktop client for Jellyfin"
-  },
-  {
-    "path": "github/copilot-sdk",
-    "url": "https://github.com/github/copilot-sdk",
-    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
-  },
-  {
-    "path": "PostHog/posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
-  },
-  {
-    "path": "microsoft/terminal",
-    "url": "https://github.com/microsoft/terminal",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
-  },
-  {
-    "path": "AstrBotDevs/AstrBot",
-    "url": "https://github.com/AstrBotDevs/AstrBot",
-    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
-  },
-  {
-    "path": "1jehuang/jcode",
-    "url": "https://github.com/1jehuang/jcode",
-    "description": "Coding Agent Harness"
-  },
-  {
-    "path": "trycua/cua",
-    "url": "https://github.com/trycua/cua",
-    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
-  },
-  {
-    "path": "MoonshotAI/kimi-cli",
-    "url": "https://github.com/MoonshotAI/kimi-cli",
-    "description": "Kimi Code CLI is your next CLI agent."
-  },
-  {
-    "path": "Flowseal/zapret-discord-youtube",
-    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "path": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
     "description": ""
   },
   {
-    "path": "codecrafters-io/build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "description": "Master programming by recreating your favorite technologies from scratch."
+    "path": "CoreBunch/Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there."
   },
   {
-    "path": "lyogavin/airllm",
-    "url": "https://github.com/lyogavin/airllm",
-    "description": "AirLLM 70B inference with single 4GB GPU"
+    "path": "yorukot/superfile",
+    "url": "https://github.com/yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager"
   },
   {
-    "path": "Canner/WrenAI",
-    "url": "https://github.com/Canner/WrenAI",
-    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more."
+    "path": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
   },
   {
-    "path": "PKUFlyingPig/cs-self-learning",
-    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
-    "description": "计算机自学指南"
+    "path": "OtterMind/Chat2DB",
+    "url": "https://github.com/OtterMind/Chat2DB",
+    "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+  },
+  {
+    "path": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design."
+  },
+  {
+    "path": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+  },
+  {
+    "path": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+  },
+  {
+    "path": "andrewyng/aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers"
+  },
+  {
+    "path": "anthropics/claude-cookbooks",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+  },
+  {
+    "path": "Pumpkin-MC/Pumpkin",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers."
+  },
+  {
+    "path": "permissionlesstech/bitchat-android",
+    "url": "https://github.com/permissionlesstech/bitchat-android",
+    "description": "bluetooth mesh chat, IRC vibes"
+  },
+  {
+    "path": "jenkinsci/jenkins",
+    "url": "https://github.com/jenkinsci/jenkins",
+    "description": "Jenkins automation server"
+  },
+  {
+    "path": "amnezia-vpn/amnezia-client",
+    "url": "https://github.com/amnezia-vpn/amnezia-client",
+    "description": "Amnezia VPN Client (Desktop+Mobile)"
   }
 ]

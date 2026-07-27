@@ -1,58 +1,13 @@
 [
   {
-    "path": "Nutlope/hallmark",
-    "url": "https://github.com/Nutlope/hallmark",
-    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    "path": "bojieli/ai-agent-book",
+    "url": "https://github.com/bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
   },
   {
-    "path": "OpenCut-app/OpenCut",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "description": "The open-source CapCut alternative"
-  },
-  {
-    "path": "Shubhamsaboo/awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
-  },
-  {
-    "path": "HKUDS/Vibe-Trading",
-    "url": "https://github.com/HKUDS/Vibe-Trading",
-    "description": "\"Vibe-Trading: Your Personal Trading Agent\""
-  },
-  {
-    "path": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
-  },
-  {
-    "path": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory."
-  },
-  {
-    "path": "kangarooking/cangjie-skill",
-    "url": "https://github.com/kangarooking/cangjie-skill",
-    "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
-  },
-  {
-    "path": "iOfficeAI/OfficeCLI",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
-  },
-  {
-    "path": "ibelick/ui-skills",
-    "url": "https://github.com/ibelick/ui-skills",
-    "description": "Skills for Design Engineers"
-  },
-  {
-    "path": "openai/codex",
-    "url": "https://github.com/openai/codex",
-    "description": "Lightweight coding agent that runs in your terminal"
-  },
-  {
-    "path": "openinterpreter/openinterpreter",
-    "url": "https://github.com/openinterpreter/openinterpreter",
-    "description": "A coding agent for open models like Kimi K3"
+    "path": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
   },
   {
     "path": "tirth8205/code-review-graph",
@@ -60,13 +15,103 @@
     "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
   },
   {
+    "path": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "description": "The most RAM effiecent harness"
+  },
+  {
+    "path": "diegosouzapw/OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+  },
+  {
+    "path": "agegr/pi-web",
+    "url": "https://github.com/agegr/pi-web",
+    "description": "Web UI for the pi coding agent"
+  },
+  {
     "path": "earendil-works/pi",
     "url": "https://github.com/earendil-works/pi",
     "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
   },
   {
-    "path": "anthropics/cwc-workshops",
-    "url": "https://github.com/anthropics/cwc-workshops",
+    "path": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory."
+  },
+  {
+    "path": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+  },
+  {
+    "path": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "path": "Pumpkin-MC/Pumpkin",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers."
+  },
+  {
+    "path": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
+  },
+  {
+    "path": "MoonshotAI/kimi-code",
+    "url": "https://github.com/MoonshotAI/kimi-code",
+    "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents"
+  },
+  {
+    "path": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦"
+  },
+  {
+    "path": "every-app/open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs"
+  },
+  {
+    "path": "Nutlope/hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+  },
+  {
+    "path": "MoonshotAI/kimi-cli",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent."
+  },
+  {
+    "path": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS."
+  },
+  {
+    "path": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+  },
+  {
+    "path": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "description": "A collection of agent skills for CAD, robotics and hardware design"
+  },
+  {
+    "path": "CoreBunch/Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there."
+  },
+  {
+    "path": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+  },
+  {
+    "path": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
     "description": ""
   }
 ]
