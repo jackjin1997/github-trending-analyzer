@@ -1,114 +1,113 @@
-# GitHub Trending 中文报告 (2026-08-03)
+# GitHub Trending 中文报告 (2026-08-10)
 
 ## 📅 Part 1: Full Trending Lists
 
 ### Daily
-- **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** — 12 Weeks, 24 Lessons, AI for All!
-- **[usekaneo/kaneo](https://github.com/usekaneo/kaneo)** — 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU
-- **[iv-org/invidious](https://github.com/iv-org/invidious)** — Invidious is an alternative front-end to YouTube
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch.
-- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** — The open-source alternative to Claude Cowork (powered by opencode)
-- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** — 21 Lessons, Get Started Building with Generative AI
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- **[NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)** — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
-- **[HarbourMasters/Lighthouse](https://github.com/HarbourMasters/Lighthouse)** — No description
-- **[antirez/ds4](https://github.com/antirez/ds4)** — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
-- **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** — A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- **[vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)** — The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** — Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
+- **[google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)** — No description
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+- **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
+- **[google/skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies
+- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- **[harveyai/harvey-labs](https://github.com/harveyai/harvey-labs)** — A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description
 
 ### Weekly
-- **[block/buzz](https://github.com/block/buzz)** — A hive mind communication platform
-- **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+- **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU
+- **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** — 12 Weeks, 24 Lessons, AI for All!
-- **[1jehuang/jcode](https://github.com/1jehuang/jcode)** — The most RAM efficient harness
-- **[pascalorg/editor](https://github.com/pascalorg/editor)** — Create and share 3D architectural projects.
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-- **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** — bluetooth mesh chat, IRC vibes
-- **[moeru-ai/airi](https://github.com/moeru-ai/airi)** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- **[andrewyng/aisuite](https://github.com/andrewyng/aisuite)** — Simple, unified interface to multiple Generative AI providers
-- **[opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)** — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-- **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description
-- **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
-- **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** — A library of agent skills for CAD, CAE and CAM
-- **[microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)** — Native and Compact Structured Latents for 3D Generation
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** — The open-source alternative to Claude Cowork (powered by opencode)
-- **[permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)** — decentralized mesh chat
+- **[usekaneo/kaneo](https://github.com/usekaneo/kaneo)** — 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+- **[google/skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies
+- **[unclebob/swarm-forge](https://github.com/unclebob/swarm-forge)** — A simple tool for coordinating several AI agents.
+- **[iv-org/invidious](https://github.com/iv-org/invidious)** — Invidious is an alternative front-end to YouTube
+- **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
+- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- **[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)** — Free, simple, and intuitive online database diagram editor and SQL generator.
+- **[vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)** — The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+- **[livekit/agents](https://github.com/livekit/agents)** — A framework for building realtime voice AI agents 🤖🎙️📹
+- **[embabel/embabel-agent](https://github.com/embabel/embabel-agent)** — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+- **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** — Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 ### Monthly
-- **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** — bluetooth mesh chat, IRC vibes
 - **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
-- **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- **[emilkowalski/skills](https://github.com/emilkowalski/skills)** — Skills for Designers and Engineers.
-- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-- **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-- **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-- **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-- **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** — Use Codex from Claude Code to review code or delegate tasks.
-- **[facebook/astryx](https://github.com/facebook/astryx)** — An open source design system that's fully customizable and agent ready
-- **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** — Build local voice agents with open-source models
-- **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-- **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - **[1jehuang/jcode](https://github.com/1jehuang/jcode)** — The most RAM efficient harness
-- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+- **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description
 - **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
-- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
+- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+- **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** — 12 Weeks, 24 Lessons, AI for All!
+- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+- **[every-app/open-seo](https://github.com/every-app/open-seo)** — Open source alternative to Semrush and Ahrefs
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+- **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+- **[earendil-works/pi](https://github.com/earendil-works/pi)** — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+- **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** — Build local voice agents with open-source models
+- **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+- **[agegr/pi-web](https://github.com/agegr/pi-web)** — Web UI for the pi coding agent
+- **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 
 ### Cross-list Duplicates
-- **[1jehuang/jcode](https://github.com/1jehuang/jcode)** — appears in W, M
-- **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — appears in W, M
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** — appears in D, W
-- **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** — appears in D, W
-- **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** — appears in W, M
+- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — appears in D, W
+- **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — appears in W, M
+- **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — appears in D, W
+- **[google/skills](https://github.com/google/skills)** — appears in D, W
+- **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** — appears in W, M
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — appears in D, M
+- **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — appears in W, M
+- **[vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)** — appears in D, W
+- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — appears in W, M
 
 ## 🏗️ Part 2: Categorized Analysis
 
 ### ⌨️ Terminal Agents & AI Coding
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[1jehuang/jcode](https://github.com/1jehuang/jcode)** | W/M | The most RAM efficient harness |
-| **[NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)** | D | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
+| **[1jehuang/jcode](https://github.com/1jehuang/jcode)** | M | The most RAM efficient harness |
 | **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** | M | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | D | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** | D | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 | **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** | M | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
-| **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** | D | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
-| **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** | W | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** | M | Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
-| **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** | W | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** | W/M | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+| **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | D | Production-grade engineering skills for AI coding agents. |
+| **[agegr/pi-web](https://github.com/agegr/pi-web)** | M | Web UI for the pi coding agent |
 | **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** | M | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
-| **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** | W | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
-| **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** | D | Master programming by recreating your favorite technologies from scratch. |
-| **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** | W/M | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
-| **[different-ai/openwork](https://github.com/different-ai/openwork)** | D/W | The open-source alternative to Claude Cowork (powered by opencode) |
-| **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** | W | A library of agent skills for CAD, CAE and CAM |
-| **[emilkowalski/skills](https://github.com/emilkowalski/skills)** | M | Skills for Designers and Engineers. |
-| **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** | D | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| **[facebook/astryx](https://github.com/facebook/astryx)** | M | An open source design system that's fully customizable and agent ready |
+| **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** | M | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
+| **[earendil-works/pi](https://github.com/earendil-works/pi)** | M | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| **[embabel/embabel-agent](https://github.com/embabel/embabel-agent)** | W | Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ |
+| **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** | W | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| **[google/skills](https://github.com/google/skills)** | D/W | Agent Skills for Google products and technologies |
+| **[harveyai/harvey-labs](https://github.com/harveyai/harvey-labs)** | D | A benchmark built to evaluate and improve agent capabilities for supporting legal work. |
 | **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** | M | Build local voice agents with open-source models |
 | **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** | M | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | D | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
-| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | M | Use Codex from Claude Code to review code or delegate tasks. |
-| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | M | The design language that makes your AI harness better at design. |
-| **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** | W | No description |
+| **[livekit/agents](https://github.com/livekit/agents)** | W | A framework for building realtime voice AI agents 🤖🎙️📹 |
+| **[mattpocock/skills](https://github.com/mattpocock/skills)** | M | Skills for Real Engineers. Straight from my .agents directory. |
+| **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** | D | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** | D/M | No description |
 | **[stablyai/orca](https://github.com/stablyai/orca)** | M | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
+| **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** | M | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 | **[tt-a1i/archify](https://github.com/tt-a1i/archify)** | M | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
-| **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** | W | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
-| **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** | M | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
-| **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** | D | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| **[unclebob/swarm-forge](https://github.com/unclebob/swarm-forge)** | W | A simple tool for coordinating several AI agents. |
+| **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** | W/M | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| **[vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)** | D/W | The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs |
+| **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** | W/M | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
 ### 🛡️ Autonomous Security
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| — | — | — |
+| **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** | W | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
 
 ### 🧠 Memory & Knowledge Management
 | Project | Span | Description |
@@ -118,10 +117,8 @@
 ### ⚙️ AI Infra & Protocols
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[antirez/ds4](https://github.com/antirez/ds4)** | D | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
-| **[block/buzz](https://github.com/block/buzz)** | W | A hive mind communication platform |
-| **[lyogavin/airllm](https://github.com/lyogavin/airllm)** | D | AirLLM 70B inference with single 4GB GPU |
-| **[opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)** | W | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. |
+| **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** | D/W | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| **[lyogavin/airllm](https://github.com/lyogavin/airllm)** | W | AirLLM 70B inference with single 4GB GPU |
 
 ### 🔓 Prompt Engineering & Data
 | Project | Span | Description |
@@ -131,23 +128,19 @@
 ### 🛠️ Productivity & Specialized Apps
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** | M | Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0 |
 | **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** | M | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ . |
-| **[HarbourMasters/Lighthouse](https://github.com/HarbourMasters/Lighthouse)** | D | No description |
 | **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** | M | The open-source CapCut alternative |
-| **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** | M | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes |
-| **[andrewyng/aisuite](https://github.com/andrewyng/aisuite)** | W | Simple, unified interface to multiple Generative AI providers |
-| **[iv-org/invidious](https://github.com/iv-org/invidious)** | D | Invidious is an alternative front-end to YouTube |
+| **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** | D | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** | W | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| **[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)** | W | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| **[every-app/open-seo](https://github.com/every-app/open-seo)** | M | Open source alternative to Semrush and Ahrefs |
+| **[goauthentik/authentik](https://github.com/goauthentik/authentik)** | D/W | The authentication glue you need. |
+| **[google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)** | D | No description |
+| **[iv-org/invidious](https://github.com/iv-org/invidious)** | W | Invidious is an alternative front-end to YouTube |
 | **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** | M | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
-| **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** | D/W | 12 Weeks, 24 Lessons, AI for All! |
-| **[microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)** | W | Native and Compact Structured Latents for 3D Generation |
-| **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** | D | 21 Lessons, Get Started Building with Generative AI |
-| **[moeru-ai/airi](https://github.com/moeru-ai/airi)** | W | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
-| **[pascalorg/editor](https://github.com/pascalorg/editor)** | W | Create and share 3D architectural projects. |
-| **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** | W/M | bluetooth mesh chat, IRC vibes |
-| **[permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)** | W | decentralized mesh chat |
-| **[usekaneo/kaneo](https://github.com/usekaneo/kaneo)** | D | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
-| **[usestrix/strix](https://github.com/usestrix/strix)** | M | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** | W/M | 12 Weeks, 24 Lessons, AI for All! |
+| **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** | D | Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. |
+| **[usekaneo/kaneo](https://github.com/usekaneo/kaneo)** | W | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
 
 ## 💡 Part 3: Strategic Insights
 
