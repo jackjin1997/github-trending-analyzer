@@ -1,18 +1,8 @@
 [
   {
-    "path": "cathrynlavery/diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-  },
-  {
     "path": "omacom/omarchy",
     "url": "https://github.com/omacom/omarchy",
     "description": "Beautiful, Modern & Opinionated Linux"
-  },
-  {
-    "path": "semantica-agi/semantica",
-    "url": "https://github.com/semantica-agi/semantica",
-    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems"
   },
   {
     "path": "tt-a1i/archify",
@@ -30,24 +20,24 @@
     "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
   },
   {
+    "path": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins"
+  },
+  {
     "path": "volcengine/OpenViking",
     "url": "https://github.com/volcengine/OpenViking",
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
   },
   {
-    "path": "PrimeIntellect-ai/prime-agent",
-    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
-  },
-  {
-    "path": "xai-org/x-algorithm",
-    "url": "https://github.com/xai-org/x-algorithm",
-    "description": "Algorithm powering the For You feed on X"
+    "path": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
   },
   {
     "path": "freestylefly/awesome-gpt-image-2",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
   },
   {
     "path": "THU-MAIC/OpenMAIC",
@@ -55,14 +45,9 @@
     "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
   },
   {
-    "path": "vitali87/code-graph-rag",
-    "url": "https://github.com/vitali87/code-graph-rag",
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
-  },
-  {
-    "path": "cactus-compute/needle",
-    "url": "https://github.com/cactus-compute/needle",
-    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    "path": "ayghri/i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
   },
   {
     "path": "vorssaint/vorssaint-utils",
@@ -75,29 +60,9 @@
     "description": "The Modular Platform (includes MAX & Mojo)"
   },
   {
-    "path": "apache/maka",
-    "url": "https://github.com/apache/maka",
-    "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
-  },
-  {
-    "path": "3b1b/manim",
-    "url": "https://github.com/3b1b/manim",
-    "description": "Animation engine for explanatory math videos"
-  },
-  {
     "path": "akitaonrails/ai-memory",
     "url": "https://github.com/akitaonrails/ai-memory",
     "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-  },
-  {
-    "path": "debpalash/VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-  },
-  {
-    "path": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "description": "A collective list of free APIs"
   },
   {
     "path": "Lakr233/vphone-cli",
@@ -105,8 +70,18 @@
     "description": ""
   },
   {
-    "path": "megadose/holehe",
-    "url": "https://github.com/megadose/holehe",
-    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function."
+    "path": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+  },
+  {
+    "path": "apache/maka",
+    "url": "https://github.com/apache/maka",
+    "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
+  },
+  {
+    "path": "cordiverse/cordis",
+    "url": "https://github.com/cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability"
   }
 ]
