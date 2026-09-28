@@ -1,67 +1,47 @@
 [
   {
-    "path": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    "path": "paperclipai/paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work"
   },
   {
-    "path": "BuilderIO/agent-native",
-    "url": "https://github.com/BuilderIO/agent-native",
-    "description": "A framework for building agentic apps"
+    "path": "vectorize-io/hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns"
   },
   {
-    "path": "cloudflare/security-audit-skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    "path": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
   },
   {
-    "path": "trycua/cua",
-    "url": "https://github.com/trycua/cua",
-    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    "path": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others."
   },
   {
-    "path": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "description": ""
+    "path": "InfinityLoop1308/PipePipe",
+    "url": "https://github.com/InfinityLoop1308/PipePipe",
+    "description": "An open-source Android app to let you browse YouTube and other services freely."
   },
   {
-    "path": "paperless-ngx/paperless-ngx",
-    "url": "https://github.com/paperless-ngx/paperless-ngx",
-    "description": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    "path": "vercel-labs/scriptc",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "description": "TypeScript-to-Native Compiler"
   },
   {
-    "path": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    "path": "mvschwarz/openrig",
+    "url": "https://github.com/mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system"
   },
   {
-    "path": "mihail911/modern-software-dev-assignments",
-    "url": "https://github.com/mihail911/modern-software-dev-assignments",
-    "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)"
+    "path": "dream-num/univer",
+    "url": "https://github.com/dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
   },
   {
-    "path": "higgsfield-ai/higgsfield",
-    "url": "https://github.com/higgsfield-ai/higgsfield",
-    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
-  },
-  {
-    "path": "Open-Dev-Society/OpenStock",
-    "url": "https://github.com/Open-Dev-Society/OpenStock",
-    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
-  },
-  {
-    "path": "coder/coder",
-    "url": "https://github.com/coder/coder",
-    "description": "Secure environments for developers and their agents"
-  },
-  {
-    "path": "vercel-labs/json-render",
-    "url": "https://github.com/vercel-labs/json-render",
-    "description": "The Generative UI framework"
-  },
-  {
-    "path": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents."
+    "path": "willfaust/Madeira",
+    "url": "https://github.com/willfaust/Madeira",
+    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
   }
 ]
