@@ -1,10 +1,5 @@
 [
   {
-    "path": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "description": ""
-  },
-  {
     "path": "paperclipai/paperclip",
     "url": "https://github.com/paperclipai/paperclip",
     "description": "The open-source app everyone uses to manage agents at work"
@@ -15,49 +10,24 @@
     "description": "Hindsight: Agent Memory That Learns"
   },
   {
-    "path": "cloudflare/security-audit-skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    "path": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design."
   },
   {
-    "path": "Tencent/WeKnora",
-    "url": "https://github.com/Tencent/WeKnora",
-    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+    "path": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
   },
   {
-    "path": "davila7/claude-code-templates",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "description": "CLI tool for configuring and monitoring Claude Code"
+    "path": "heygen-com/hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents."
   },
   {
-    "path": "stablyai/orca",
-    "url": "https://github.com/stablyai/orca",
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
-  },
-  {
-    "path": "vercel/next.js",
-    "url": "https://github.com/vercel/next.js",
-    "description": "The React Framework"
-  },
-  {
-    "path": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
-  },
-  {
-    "path": "pytorch/pytorch",
-    "url": "https://github.com/pytorch/pytorch",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-  },
-  {
-    "path": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-  },
-  {
-    "path": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    "path": "Effect-TS/effect",
+    "url": "https://github.com/Effect-TS/effect",
+    "description": "Build production-ready applications in TypeScript"
   },
   {
     "path": "rohitg00/ai-engineering-from-scratch",
@@ -65,14 +35,19 @@
     "description": "Learn it. Build it. Ship it for others."
   },
   {
-    "path": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    "path": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
   },
   {
-    "path": "cloudflare/quiche",
-    "url": "https://github.com/cloudflare/quiche",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    "path": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
+  },
+  {
+    "path": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "description": ""
   },
   {
     "path": "TencentCloud/Octop",
@@ -80,13 +55,43 @@
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
   },
   {
-    "path": "anthropics/knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    "path": "tile-ai/tilelang",
+    "url": "https://github.com/tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
   },
   {
-    "path": "FxEmbed/FxEmbed",
-    "url": "https://github.com/FxEmbed/FxEmbed",
-    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
+    "path": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+  },
+  {
+    "path": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework"
+  },
+  {
+    "path": "cs341-illinois/coursebook",
+    "url": "https://github.com/cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois"
+  },
+  {
+    "path": "NVIDIA/OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents."
+  },
+  {
+    "path": "pablostanley/yoinks",
+    "url": "https://github.com/pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads."
+  },
+  {
+    "path": "mvschwarz/openrig",
+    "url": "https://github.com/mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+  },
+  {
+    "path": "HunxByts/GhostTrack",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number"
   }
 ]
