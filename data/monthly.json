@@ -1,8 +1,8 @@
 [
   {
-    "path": "paperclipai/paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "description": "The open-source app everyone uses to manage agents at work"
+    "path": "heygen-com/hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents."
   },
   {
     "path": "debpalash/VoiceStudio",
@@ -10,29 +10,24 @@
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
   },
   {
-    "path": "heygen-com/hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "description": "Write HTML. Render video. Built for agents."
-  },
-  {
-    "path": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "description": ""
-  },
-  {
-    "path": "vectorize-io/hindsight",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "description": "Hindsight: Agent Memory That Learns"
-  },
-  {
     "path": "cloudflare/security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
   },
   {
-    "path": "agent-substrate/substrate",
-    "url": "https://github.com/agent-substrate/substrate",
-    "description": "Agent Substrate: the core system"
+    "path": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+  },
+  {
+    "path": "paperclipai/paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work"
+  },
+  {
+    "path": "NVIDIA/OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents."
   },
   {
     "path": "mksglu/context-mode",
@@ -40,9 +35,34 @@
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
   },
   {
-    "path": "NVIDIA/OpenShell",
-    "url": "https://github.com/NVIDIA/OpenShell",
-    "description": "OpenShell is the safe, private runtime for autonomous AI agents."
+    "path": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins"
+  },
+  {
+    "path": "vectorize-io/hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns"
+  },
+  {
+    "path": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+  },
+  {
+    "path": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers."
+  },
+  {
+    "path": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design."
+  },
+  {
+    "path": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework"
   },
   {
     "path": "affaan-m/ECC",
@@ -55,19 +75,14 @@
     "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
   },
   {
-    "path": "anthropics/knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    "path": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
   },
   {
-    "path": "NationalSecurityAgency/ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "description": "Ghidra is a software reverse engineering (SRE) framework"
-  },
-  {
-    "path": "cursor/plugins",
-    "url": "https://github.com/cursor/plugins",
-    "description": "Cursor plugin specification and official plugins"
+    "path": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "description": ""
   },
   {
     "path": "rohitg00/ai-engineering-from-scratch",
@@ -75,9 +90,9 @@
     "description": "Learn AI Engineering! Learn it. Build it. Ship it for others."
   },
   {
-    "path": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    "path": "VectifyAI/PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
   },
   {
     "path": "TencentCloud/Octop",
@@ -85,18 +100,8 @@
     "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
   },
   {
-    "path": "trycua/cua",
-    "url": "https://github.com/trycua/cua",
-    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation."
-  },
-  {
-    "path": "longbridge/gpui-kit",
-    "url": "https://github.com/longbridge/gpui-kit",
-    "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
-  },
-  {
-    "path": "pingdotgg/t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "description": ""
+    "path": "Gaurav-Gosain/tuios",
+    "url": "https://github.com/Gaurav-Gosain/tuios",
+    "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account."
   }
 ]
