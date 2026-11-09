@@ -1,122 +1,99 @@
-# GitHub Trending 中文报告 (2026-11-02)
+# GitHub Trending 中文报告 (2026-11-09)
 
 ## 📅 Part 1: Full Trending Lists
 
 ### Daily
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)** — Lightpanda: the headless browser designed for AI and automation
-- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description
+- **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
+- **[dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)** — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
 - **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** — Open-source Grok Bot alternative with a virtual machine that bots can use
-- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** — A collective list of free APIs
-- **[cjpais/Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.
-- **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-- **[kornia/kornia](https://github.com/kornia/kornia)** — 🐍 Geometric Computer Vision Library for Spatial AI
-- **[beenuar/AiSOC](https://github.com/beenuar/AiSOC)** — Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
-- **[anomalyco/hex](https://github.com/anomalyco/hex)** — Local voice dictation for mac, windows and linux
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-- **[togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** — LIST OF ALL MY JAILBREAKS
-- **[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** — FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
-- **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** — Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents
+- **[meta/astryx](https://github.com/meta/astryx)** — An open source design system that's fully customizable and agent ready
+- **[anthropics/skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
+- **[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)** — Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- **[ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)** — A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
 
 ### Weekly
-- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+- **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-- **[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description
-- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- **[jakubkrehel/skills](https://github.com/jakubkrehel/skills)** — A collection of agent skills that help you build great interfaces.
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+- **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - **[anthropics/skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- **[YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)** — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
-- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** — 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** — Open-source Grok Bot alternative with a virtual machine that bots can use
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- **[Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+- **[jakubkrehel/skills](https://github.com/jakubkrehel/skills)** — A collection of agent skills that help you build great interfaces.
+- **[github/spec-kit](https://github.com/github/spec-kit)** — 💫 Toolkit to help you get started with SDD or any other process!
+- **[The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)** — 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+- **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** — Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- **[blader/humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text
 
 ### Monthly
-- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
+- **[morluto/rea](https://github.com/morluto/rea)** — Reverse engineer anything with agents, from app behavior down to native binaries.
 - **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- **[storytold/artcraft](https://github.com/storytold/artcraft)** — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** — Design physical products with AI
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** — Ghidra is a software reverse engineering (SRE) framework
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description
-- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-- **[flutter/flutter](https://github.com/flutter/flutter)** — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- **[cursor/plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
-- **[android/skills](https://github.com/android/skills)** — No description
-- **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-- **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — The open agent skills tool - npx skills
-- **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** — 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+- **[boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)** — Tool for automatic PS5 executables porting to Linux and Windows
+- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
+- **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** — Ghidra is a software reverse engineering (SRE) framework
 
 ### Cross-list Duplicates
-- **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** — appears in W, M
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — appears in W, M
 - **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — appears in W, M
-- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — appears in W, M
-- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — appears in W, M
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — appears in D, W, M
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — appears in D, W, M
+- **[anthropics/skills](https://github.com/anthropics/skills)** — appears in D, W
+- **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** — appears in D, W
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — appears in W, M
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — appears in W, M
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** — appears in D, W
 
 ## 🏗️ Part 2: Categorized Analysis
 
 ### ⌨️ Terminal Agents & AI Coding
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** | W/M | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. |
-| **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** | D | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
-| **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** | D | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
-| **[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** | W | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
-| **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | W/M | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
+| **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** | W | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
+| **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** | W | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
 | **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** | W/M | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** | W | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| **[YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)** | W | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 |
-| **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | W | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| **[android/skills](https://github.com/android/skills)** | M | No description |
-| **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** | M | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** | M | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| **[anthropics/skills](https://github.com/anthropics/skills)** | W | Public repository for Agent Skills |
-| **[beenuar/AiSOC](https://github.com/beenuar/AiSOC)** | D | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. |
-| **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** | W/M | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| **[The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)** | W | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
+| **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** | D | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| **[anthropics/skills](https://github.com/anthropics/skills)** | D/W | Public repository for Agent Skills |
+| **[blader/humanizer](https://github.com/blader/humanizer)** | W | Agent skill that removes signs of AI-generated writing from text |
+| **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** | M | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 | **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** | M | Write HTML. Render video. Built for agents. |
 | **[jakubkrehel/skills](https://github.com/jakubkrehel/skills)** | W | A collection of agent skills that help you build great interfaces. |
-| **[mksglu/context-mode](https://github.com/mksglu/context-mode)** | M | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** | W | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
-| **[obra/superpowers](https://github.com/obra/superpowers)** | W | An agentic skills framework & software development methodology that works. |
-| **[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** | D | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
-| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | W/M | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
-| **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** | D/W/M | No description |
-| **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** | D | Kronos: A Foundation Model for the Language of Financial Markets |
-| **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** | D/W/M | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| **[vercel-labs/skills](https://github.com/vercel-labs/skills)** | M | The open agent skills tool - npx skills |
+| **[mattpocock/skills](https://github.com/mattpocock/skills)** | W | Skills for Real Engineers. Straight from my .agents directory. |
+| **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** | W | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| **[meta/astryx](https://github.com/meta/astryx)** | D | An open source design system that's fully customizable and agent ready |
+| **[morluto/rea](https://github.com/morluto/rea)** | M | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | M | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** | W/M | No description |
+| **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** | W/M | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** | D/W | Browser automation CLI for AI agents |
 
 ### 🛡️ Autonomous Security
 | Project | Span | Description |
 | :--- | :---: | :--- |
 | **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** | M | Ghidra is a software reverse engineering (SRE) framework |
+| **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** | D | Hunt down social media accounts by username across social networks |
 
 ### 🧠 Memory & Knowledge Management
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| — | — | — |
+| **[ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)** | D | A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need |
 
 ### ⚙️ AI Infra & Protocols
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** | D | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
-| **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** | W | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
-| **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)** | D | Lightpanda: the headless browser designed for AI and automation |
-| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | M | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
+| **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** | W | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
+| **[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)** | D | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
 
 ### 🔓 Prompt Engineering & Data
 | Project | Span | Description |
@@ -126,17 +103,15 @@
 ### 🛠️ Productivity & Specialized Apps
 | Project | Span | Description |
 | :--- | :---: | :--- |
-| **[anomalyco/hex](https://github.com/anomalyco/hex)** | D | Local voice dictation for mac, windows and linux |
-| **[cjpais/Handy](https://github.com/cjpais/Handy)** | D | A free, open source, and extensible speech-to-text application that works completely offline. |
-| **[cursor/plugins](https://github.com/cursor/plugins)** | M | Cursor plugin specification and official plugins |
+| **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** | M | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ . |
+| **[Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** | W | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| **[boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)** | M | Tool for automatic PS5 executables porting to Linux and Windows |
 | **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** | M | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** | M | Design physical products with AI |
-| **[flutter/flutter](https://github.com/flutter/flutter)** | M | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** | D | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
-| **[kornia/kornia](https://github.com/kornia/kornia)** | D | 🐍 Geometric Computer Vision Library for Spatial AI |
-| **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** | D | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| **[public-apis/public-apis](https://github.com/public-apis/public-apis)** | D | A collective list of free APIs |
-| **[togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** | D | LIST OF ALL MY JAILBREAKS |
+| **[dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)** | D | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
+| **[github/spec-kit](https://github.com/github/spec-kit)** | W | 💫 Toolkit to help you get started with SDD or any other process! |
+| **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)** | W | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** | D/W | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| **[storytold/artcraft](https://github.com/storytold/artcraft)** | M | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 
 ## 💡 Part 3: Strategic Insights
 
